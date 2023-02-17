@@ -98,6 +98,33 @@ The app includes the following features:
 - Pull-to-refresh to fetch the latest data
 
 
+### Countdown App
+
+<img
+  src="https://user-images.githubusercontent.com/37070272/221721155-1885e257-355d-4aa9-b26c-9616d932c3bb.png"
+  width=24%
+  alt="Screenshot"
+  align="right"
+/>
+
+"Countdown!" is a Flutter application that provides a countdown timer to help you keep track of important events or deadlines. The app allows you to create multiple countdowns, each with its own title and end date/time.
+
+#### Usage
+
+Tap the plus icon and enter the name and date of the event you want to create. You can create as many events as you want.
+
+#### Features
+
+- Create multiple countdowns
+- Customizable countdown titles
+- Set an end date and time for each countdown
+- Countdown displays days, hours, minutes, and seconds
+
+#### Dependencies
+
+- `flutter_countdown_timer`
+
+
 ## License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
