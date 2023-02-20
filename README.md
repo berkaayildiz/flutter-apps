@@ -52,7 +52,6 @@ flutter run
 
 ## Projects
 
-
 ### Chat Bot App 
 
 <img
@@ -74,56 +73,6 @@ The chatbot app includes the following features:
 - A chat interface that allows users to ask questions and receive responses
 - A simple but extensible chatbot engine that can be customized to handle a variety of use cases
 - Custom widgets that allows developers to manipulate the components easily
-
-
-### Earthquake Tracker App 
-
-<img
-  src="https://user-images.githubusercontent.com/37070272/221447373-d3acc894-7fae-449c-afd3-9f2855741048.png"
-  width=24%
-  alt="Screenshot"
-  align="right"
-/>
-
-"Son Depremler" is a Flutter-based mobile application that tracks the latest earthquakes in Turkey. The app uses an API to fetch earthquake data and displays the earthquake location, magnitude, and time in a list view.
-
-#### Usage
-The most recent earthquake data will be fetched and displayed in a list format as soon as the app is launched on your mobile device. You can pull down on the screen to refresh the data and use the slider at the bottom of the screen to filter the earthquakes by their magnitude range.
-
-#### Features
-
-The app includes the following features:
-
-- Display latest earthquake data in a list view
-- Filter earthquakes by their magnitude range
-- Pull-to-refresh to fetch the latest data
-
-
-### Countdown App
-
-<img
-  src="https://user-images.githubusercontent.com/37070272/221721155-1885e257-355d-4aa9-b26c-9616d932c3bb.png"
-  width=24%
-  alt="Screenshot"
-  align="right"
-/>
-
-"Countdown!" is a Flutter application that provides a countdown timer to help you keep track of important events or deadlines. The app allows you to create multiple countdowns, each with its own title and end date/time.
-
-#### Usage
-
-Tap the plus icon and enter the name and date of the event you want to create. You can create as many events as you want.
-
-#### Features
-
-- Create multiple countdowns
-- Customizable countdown titles
-- Set an end date and time for each countdown
-- Countdown displays days, hours, minutes, and seconds
-
-#### Dependencies
-
-- `flutter_countdown_timer`
 
 
 ## License
